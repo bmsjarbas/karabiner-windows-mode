@@ -25,6 +25,7 @@
     '^com\\.sublimetext\\.3$',
     // Kitty
     '^net\\.kovidgoyal\\.kitty$',
+    '^com\\.google\\.android\\.studio$',
   ],
 
   // bundle identifiers for remote desktop applications
